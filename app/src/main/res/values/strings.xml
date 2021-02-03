@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Locale Demo</string>
+    <string name="hello_world">Hello world</string>
+    <string name="first_activity">First Activity</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="phone_language">Phone\'s language (%s)</string>
+</resources>

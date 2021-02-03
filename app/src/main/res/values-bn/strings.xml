@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">ওহে বিশ্ব</string>
+    <string name="first_activity">প্রথম এক্টিভিটি</string>
+    <string name="second_activity">দ্বিতীয় এক্টিভিটি</string>
+    <string name="phone_language">মোবাইলের ভাষা (%s)</string>
+</resources>
